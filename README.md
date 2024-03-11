@@ -14,7 +14,7 @@ Behavior:
 
 Error Handling:
    Returns null in the following cases:
-   -Either firstArray or secondArray is empty.
-   -Any character in firstArray or secondArray is not defined.
-   -multiplier is negative.
-   -lastChar is not a defined character.
+   1) Either firstArray or secondArray is empty.
+   2) Any character in firstArray or secondArray is not defined.
+   3) multiplier is negative.
+   4) lastChar is not a defined character.
