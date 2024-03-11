@@ -42,8 +42,10 @@ public class AppTest
     public void testStringManipulationWithValidInput() {
         ArrayList<Integer> firstArray = new ArrayList<>();
         firstArray.add(65);
+
         ArrayList<Integer> secondArray = new ArrayList<>();
         secondArray.add(66);
+
         int multiplier = 2;
         char lastChar = 'X';
 
@@ -55,7 +57,9 @@ public class AppTest
     // Test the method with empty arrays
     public void testStringManipulationWithEmptyArrays() {
         ArrayList<Integer> firstArray = new ArrayList<>();
+
         ArrayList<Integer> secondArray = new ArrayList<>();
+
         int multiplier = 2;
         char lastChar = 'X';
 
@@ -66,8 +70,10 @@ public class AppTest
     public void testStringManipulationWithNegativeMultiplier() {
         ArrayList<Integer> firstArray = new ArrayList<>();
         firstArray.add(65);
+
         ArrayList<Integer> secondArray = new ArrayList<>();
         secondArray.add(66);
+
         int multiplier = -2;
         char lastChar = 'X';
 
@@ -78,8 +84,10 @@ public class AppTest
     public void testStringManipulationWithInvalidLastChar() {
         ArrayList<Integer> firstArray = new ArrayList<>();
         firstArray.add(65);
+
         ArrayList<Integer> secondArray = new ArrayList<>();
-        secondArray.add(66);;
+        secondArray.add(66);
+
         int multiplier = 2;
         char lastChar = '.';
 
@@ -90,8 +98,10 @@ public class AppTest
     public void testStringManipulationWithZeroMultiplier() {
         ArrayList<Integer> firstArray = new ArrayList<>();
         firstArray.add(65);
+
         ArrayList<Integer> secondArray = new ArrayList<>();
         secondArray.add(66);
+        
         int multiplier = 0;
         char lastChar = 'X';
 
