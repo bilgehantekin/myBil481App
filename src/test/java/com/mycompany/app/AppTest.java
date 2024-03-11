@@ -101,7 +101,7 @@ public class AppTest
 
         ArrayList<Integer> secondArray = new ArrayList<>();
         secondArray.add(66);
-        
+
         int multiplier = 0;
         char lastChar = 'X';
 
