@@ -21,4 +21,4 @@ Error Handling:
 
 [![Build Status](https://app.travis-ci.com/bilgehantekin/myBil481App.svg?token=vKUFqQJccpqGUXCqYhpP&branch=master)](https://app.travis-ci.com/bilgehantekin/myBil481App)
 
-Demo site: https://aqueous-taiga-00163-99aa5cd79d46.herokuapp.com/
+Demo site: https://aqueous-taiga-00163-99aa5cd79d46.herokuapp.com/compute
