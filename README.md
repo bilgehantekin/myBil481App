@@ -18,3 +18,5 @@ Error Handling:
    2) Any character in firstArray or secondArray is not defined.
    3) multiplier is negative.
    4) lastChar is not a defined character.
+
+[![Build Status](https://app.travis-ci.com/bilgehantekin/myBil481App.svg?token=vKUFqQJccpqGUXCqYhpP&branch=master)](https://app.travis-ci.com/bilgehantekin/myBil481App)
